@@ -1,0 +1,65 @@
+body{
+             margin:auto;
+             width:800px;
+             height:100px;
+        }
+        footer{
+              padding:3px;
+              font-size:small;
+              font: Tahoma;
+              font-weight: bold;
+              color: black;
+        }
+       table{
+          position:relative;
+          }
+        td{
+            position:absolute;
+            
+          }
+       
+        div{
+            color: #300000;
+            font: Tahoma;
+            font-size:large;
+            }
+        a{
+           font-weight: bold;
+          
+          }
+    .left{
+            background-color:Wheat;
+            width: 50%;
+            position:relative;
+            padding:30px;
+        }
+        .right{
+
+           color: #a0522d;
+            background-color:#fffaf0;
+             width: 50%;
+            position:relative;
+            padding:30px;
+        }
+        .info{
+            width: 400px;
+            float: left;
+        }
+        .photo{
+             width: 204px;
+            height: 204px;
+            font: Tahoma;
+            padding: 10px;
+     
+             align:top;
+        }
+        .block{
+        }
+        
+        
+   .scale {
+    transition: 1s;
+   }
+   .scale:hover {
+    transform: scale(1.2);
+   }
